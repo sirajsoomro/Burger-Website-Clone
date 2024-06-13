@@ -1,0 +1,141 @@
+#box {
+    background-color: #f7f7f7;
+    padding: 20px;
+    padding-left: 20px;
+    position: fixed;
+    top: 2px;
+    padding-right: 60px;
+}
+
+#first {
+    padding: 10px;
+
+}
+
+#first:hover{
+    background-color:#a07575;
+}
+
+#item{
+    margin-left: 800px;
+    display: inline;
+
+}
+
+.nav-item{
+    margin-left: 35px;
+    padding: 10px;
+
+}
+
+.nav-item:hover {
+    background-color:#a07575;
+}
+
+#imagefirst {
+    width: 100%;
+}
+
+#image {
+    background-color: black;
+    height: 500px;
+    width: 400px;
+    margin-left: 100px;
+    background-image: url("dish.jpg");
+    background-size: cover;
+    float: left;
+    margin-top: 10px;
+
+}
+
+#text {
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    float: left;
+    margin-left: 70px;
+
+}
+
+#main {
+    height: 600px;
+    text-align: center;
+
+}
+
+p {
+    font-size: 17px;
+}
+
+#image2 {
+    background-image: url("dish2.jpg");
+    height: 700px;
+    width: 500px;
+    margin-left: 800px;
+    background-size: cover;
+
+
+}
+
+#text2 {
+    height: 700px;
+    width: 400px;
+    margin-left: 100px;
+    float: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 200px;
+}
+
+#mytext {
+    margin-left: 80px;
+}
+
+#three {
+    margin-left: 80px;
+    color: #a07575;
+}
+
+input {
+    margin-left: 80px;
+    width: 900px;
+    height: 50px;
+    font-size: 15px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+button {
+    height: 40px;
+    margin-left: 80px;
+    border: none;
+}
+
+button:hover{
+    background-color: #a07575;
+}
+
+#link{
+   
+    margin: auto;
+    text-align: center;
+    padding-top: 80px;
+    display: block;
+    color: rgb(49, 49, 49);
+    text-decoration: none;
+
+}
+
+#lastbox {
+    margin-top: 50px;
+    background-color: #f1f1f1;
+    height: 100px;
+}
